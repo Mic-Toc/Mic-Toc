@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there :) 👋
 
+I’m currently working on the final project of itro to cs.
+
+You can look at my project I did in 2023 of an online peer-to-peer chat, including backend, frontend. It's under the repo "chat-program".
+
+Pronouns: he/him
 <!--
 **Mic-Toc/Mic-Toc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
