@@ -1,6 +1,6 @@
 ### Hi there :) 👋
 
-I’m currently working on the final project of itro to cs.
+I’m currently working on the final project of intro to cs.
 
 You can look at my project I did in 2023 of an online peer-to-peer chat, including backend, frontend. It's under the repo "chat-program".
 
