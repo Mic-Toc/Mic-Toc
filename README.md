@@ -1,6 +1,6 @@
 ### Hi there :) 👋
 
-I’m currently working on the final project a Needle in a Data Haystack.
+I’m currently working on the final project for thhe course a Needle in a Data Haystack.
 
 You can look at my project I did in 2023 of an online peer-to-peer chat, including backend, frontend. It's under the repo "chat-program".
 
